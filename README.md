@@ -1,10 +1,2 @@
 # robotics-course
-# robotics-course
-# robotics-course
-# robotics-course
-# robotics-course
-# robotics-course
-# robotics-course
-# robotics-course
-# robotics-course
-# robotics-course
+first repo for robotics course 
